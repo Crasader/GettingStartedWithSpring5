@@ -9,7 +9,7 @@
 	<name>ch11-aop-proxy</name>
 	<properties>
 		<aspectj.version>1.8.13</aspectj.version>
-		<spring.version>5.0.1.RELEASE</spring.version>
+		<spring.version>5.0.7.RELEASE</spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<repositories>
